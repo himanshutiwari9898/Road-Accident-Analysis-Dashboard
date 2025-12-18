@@ -28,8 +28,7 @@ This project demonstrates **data analysis, visualization, and insight generation
 ---
 
 ## 📸 Dashboard Preview
-
-![Road Accident Dashboard](assets/images/dashboard.png)
+![Dashboard Preview](assets/images/dashboard.png)
 
 ---
 
