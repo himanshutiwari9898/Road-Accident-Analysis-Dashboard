@@ -91,7 +91,8 @@ without relying on external BI tools.
 
 ## Repository Structure
 Road-Accident-Analysis/
-├── RawData/ # Original raw CSV / Excel data
+├── RawData/ # Original raw Excel data
+├── Icons/ # Different icons png
 ├── Datasets/ # Cleaned or processed data
 ├── Dashboard/ # Excel dashboard file
 ├── DashBoardScreenshot/ # Dashboard screenshots
